@@ -47,3 +47,6 @@ Decision tree builds regression or classification models in the form of a tree s
 
 # Comparing R^2 Value and Crossing Validation Score
 After Comparing R^2 Value and Crossing Validation Score We get our model which analyse to find the important factors that contribute towards the price. And also it gives a forecast range (range of permissible values) rather than a single estimate as it will help the customers to negotiate.
+
+
+## The data set has been uploaded in Repository 
